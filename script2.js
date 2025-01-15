@@ -1,0 +1,1 @@
+comnsole.log("script2");
